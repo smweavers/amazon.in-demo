@@ -1,0 +1,285 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: border-box;
+}
+html,body{
+    width: 1335px;
+    height: 5700px;
+}
+.main{
+    width: 1335px;
+    height: 5700px;
+}
+.header{
+    width: 1335px;
+    height: 60px;
+    background-color: #0f1111;
+    position: fixed;
+}
+.fake-header{
+    height: 60px;
+    background-color: #0f1111;
+}
+.sec-header{
+    height: 40px;
+    background-color: #232f3e;
+}
+.pro-display{
+    width: 1335px;
+    height: 250px;
+    background-image: url(head\ image1.jpg );
+    background-size: cover;
+}
+.products{
+    width: 1335px;
+    height: 500px;
+    background: linear-gradient(rgb(39, 107, 255) 8%, lightgrey 60%);
+    
+    justify-content: space-evenly;
+    display: flex;
+}
+.box{
+    height: 475px;
+    width: 310px;
+    background-color: white;
+}
+.ph1{
+    height: 65px;
+    width: 90%;
+    margin-top: 8%;
+    margin-left: 5%;
+    
+}
+.ph2l{
+    font-size: 22.5px; 
+}
+.img-display2x2{
+    margin-top: 3%;
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+    
+}
+.text-downlink{
+    margin-top: 11%;
+    font-size: px;
+    width: 90%;
+    height: 22px;
+    margin-left: 5%;
+
+    color: #2162a1;
+}
+.il1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.il11{
+    width: 50%;
+    height: 100%;
+    
+}
+.il113{
+     width: 100%;
+    height: 50%;
+    display: flex;
+
+}
+.ph2{
+    height: 35px;
+    width: 90%;
+    margin-top: 8%;
+    margin-left: 5%;
+
+}
+.ph1l{
+    font-size: 22.5px; 
+}
+.img-display2x2-2{
+    margin-top: 3%;
+    width: 90%;
+    height: 330px;
+    margin-left: 5%;
+}
+.il2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.il22{
+    width: 50%;
+    height: 100%;
+
+}
+.img-display2x2-3{
+     margin-top: 10%;
+    width: 90%;
+    height: 325px;
+    margin-left: 5%;
+}
+.il13{
+     width: 100%;
+    height: 50%;
+    display: flex;
+}
+.il113{
+    width: 50%;
+    height: 100%;
+}
+.products-2{
+    width: 1335px;
+    height: 500px;
+    justify-content: space-evenly;
+    display: flex;
+}
+.products-1l{
+    width: 100%;
+    height: 330px;
+
+}
+.p-slide{
+    width: 97%;
+    height: 90%;
+    background-color: white;
+    margin-left: 1.5%;
+    
+}
+.products-3{
+    width: 1335px;
+    height: 500px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.img-display1x3{
+     margin-top: 4%;
+    width: 90%;
+    height: 355px;
+    margin-left: 5%;
+}
+.il14{
+    width: 100%;
+    height: 80%;
+
+}
+.il114{
+    width: 100%;
+    height: 20%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.il1114{
+    width: 22%;
+    height: 90%;
+
+}
+.img-display2x2-4{
+     margin-top: 4%;
+    width: 90%;
+    height: 355px;
+    margin-left: 5%;
+}
+.img-display1x3-2{
+     margin-top: 4%;
+    width: 90%;
+    height: 388px;
+    margin-left: 5%;
+}
+.products-1l2{
+    width: 100%;
+    height: 350px;
+
+}
+.products-1l3{
+    width: 100%;
+    height: 225px;
+
+}
+.p-slide2{
+    width: 97%;
+    height: 95%;
+    background-color: white;
+    margin-left: 1.5%;
+}
+.p-slide3{
+    width: 60%;
+    height: 80%;
+    background-color: white;
+    
+}
+.personalised-recommendations{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+.u-link{
+    color: #2162a1;
+}
+.u-link:hover{
+    color: #001a49;
+}
+.footer1{
+    width: 1335px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: #37475a;
+}
+.footer2{
+    width: 1335px;
+    height: 425px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: #232f3e;
+    border-bottom: 1px solid rgb(87, 87, 87)
+}
+.footer3{
+    width: 1335px;
+    height: 125px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: #232f3e;
+}
+.footer4{
+    width: 1335px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: #131a22;
+}
+.footer5{
+    width: 1335px;
+    height: 75px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: #131a22;
+}
+.b17-img{
+    background-image: url(homeb17.jpg);
+    background-size: cover;
+    width: 60%;
+    height: 60%;
+}
+.text-link{
+    color: #2162a1;
+    text-decoration: none;
+}
+.text-link:hover{
+    color: #003468;
+    text-decoration: underline;
+}

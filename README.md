@@ -1,3 +1,3 @@
 # amazon.in-demo
 clone of amazon.in site<br>
-Author - Suvir Thorat
+Author - Suvir Thorat (PMA)
